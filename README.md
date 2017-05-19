@@ -9,6 +9,7 @@ This library allows you to monitor home control appliances which are compatible 
 
 * Arduino
 * A cheap chinese RF 433MHz receiver (search Google/Amazon/eBay for "chinese 433mhz receiver arduino")
+* Installation of the [RFControl](https://github.com/pimatic/RFControl) library
 
 ## Hardware
 
